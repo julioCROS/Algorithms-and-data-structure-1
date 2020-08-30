@@ -1,3 +1,3 @@
-# Algoritmos e estrutura de dados 1
-Exercícios e trabalhos realizados durante a disciplina de "Algoritmos e estrutura de dados 1".
-Escritos em linguagem C.
+# Algorithms and data structure 1
+Exercises and coursework carried out during the course of "Algorithms and data structure 1".
+Written in C language.
