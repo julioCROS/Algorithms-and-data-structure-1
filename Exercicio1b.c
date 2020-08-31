@@ -25,7 +25,6 @@ Resultado: 100010
 ////////////////////////////////////////
 */
 #include <stdio.h>
-
 void dec2bin(int dec){
   int novoNumero = 0;
   int divisao = 0;
