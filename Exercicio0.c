@@ -9,7 +9,6 @@ Após a leitura, o programa deverá somar os números e imprimir a resposta. A s
 */
   
 #include <stdio.h>
-
 int main() {
   int num1, num2, soma;
   printf("Digite os dois numeros: ");
