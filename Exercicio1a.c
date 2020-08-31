@@ -31,8 +31,7 @@ int Digitos (int N){
     N = N /10;
     cont = cont + Digitos(N);
   }
-  return cont;
-  
+  return cont;  
 }
 
 int main() {
