@@ -235,5 +235,4 @@ int main(){
     dijkstra(vDist,numCidades,numCOrigem, numCDestino, cidades);
 
     fclose(arquivo);
-
 }
